@@ -1,0 +1,14 @@
+Artificial intelligence - set of tools for making computers behave intelligently using computer science and robotics.
+Machine learning        - a set of tools for making inferences/causes/patterns and predictions/outcomes from data using statistics and computer science.
+                        - ability to learn without being explicitly programmed.
+Data Science            - discovering and communicating insights from data / overlaps with machine learning via machine learning models.
+Reinforcement learning  - used for deciding sequential actions
+Supervised learning     - observations of features and relationships between features train a model to predict a target variable. Values of observations are labelled and known.
+Unsupervised learning   - training data is not labeled and only has features with no target. Is used to detect anomalies or cluster data into groups (e.g. self-driving)
+Workflow                - 1. extract features 
+                        - 2. split dataset - train & test
+                        - 3. train model 
+                        - 4. Evaluate model - test dataset (if percentage of accuracy is below threshold, tune and retrain model)
+
+
+

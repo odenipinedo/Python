@@ -1,0 +1,20 @@
+Supervised learning
+     - classification           -> assigning a category to a target
+     - regression               -> assigning a continuous variable to a target
+
+Unsupervised learning
+     - clustering               -> K Means (# of clusters), DBSCAN (size of each cluster)
+     - anomaly detection        -> outlier detection
+     - association              -> relationships between features
+
+Evaluating performance          -> use testing set to check model performance 
+                                -> classification evaluand can use accuracy, or 
+                                      -> confusion matrix using sensitivity [true positives/(true pos + false neg) or specificity [true negatives/(true neg + false pos)]
+                                -> regression evaluand example is root mean squared error (RMSE)
+     - overfitting              -> model performs great on training data but poorly on testing data
+                                -> model memorized training data and cannot generalize learning to new data
+
+Improving performance           -> 
+     - dimensionality reduction -> reducing number of features (irrelevant, highly correlated)
+     - hyperparameter tuning    -> e.g. Support Vector Machine (SVM) - change kernel from linear to poly
+     - ensemble methods         -> multiple models are used (e.g., averages for continuous variables, best 2 out of 3 for classification)

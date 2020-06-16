@@ -1,0 +1,20 @@
+Deep learning               -> aka neaural networks
+                            -> basic unit: neurons/nodes
+                            -> best with large amounts of text or images
+                            -> feature->neuron->target
+
+Computer vision             -> helps computers see and underdstand the content of digital images
+                            -> RGB is 3x more data than grayscale
+                            -> images->neuron(edges)->neuron(objects)->neuron(shapes of faces)
+
+Natural language processing -> computer vision and natural language processing are two cases of complex problems best managed by deep learning (automatic feature extraction, better performance with more data)
+                            -> bag of words - word count. Limitation: word counts do not consider synonyms
+                            -> n-grams - like bag of words but with phrases of length n
+                            -> word embeddings - includes features of words
+
+Limits of machine learning  -> 
+data quality                -> garbage in, garbage out (e.g., Amazon's gender-biased hiring tool, AI chatbots)
+                            -> quality assurance requires: data analysis, review of outliers, relevant domain expertise applied, and thorough documentation
+explainability              -> black box effect of machine learning models
+                            -> applications: minimizing bias, business adoption, regulatory oversight
+                            -> prediction ---> inference ---> why? this is explainable AI. Without ability to infer, it is not explainable.
