@@ -1,6 +1,5 @@
 remote_theme: odenipinedo/odenipinedo.github.io
 title: Daniel Pinedo
 url: "https://pinedo.org"
-
 plugins:
   - jekyll-remote-theme
