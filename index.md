@@ -7,6 +7,7 @@ sitemap:
   lastmod: 2020-11-27
   exclude: 'no'
 ---
+
 ## DataCamp
 #### Machine Learning
 1. [machine learning for everyone](https://github.com/odenipinedo/Python/blob/master/datacamp/01.%20machine%20learning%20for%20everyone.ipynb)
