@@ -8,7 +8,7 @@ sitemap:
   exclude: 'no'
 ---
 
-## DataCamp
+## <a href="https://www.datacamp.com/profile/odenipinedo" target="_blank" rel="noopener noreferrer">DataCamp</a>
 #### Machine Learning
 1. [machine learning for everyone](https://github.com/odenipinedo/Python/blob/master/datacamp/01.%20machine%20learning%20for%20everyone.ipynb)
 2. [introduction to Python](https://github.com/odenipinedo/Python/blob/master/datacamp/02.%20introduction%20to%20Python.ipynb)
