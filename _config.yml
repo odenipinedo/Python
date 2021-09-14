@@ -4,3 +4,5 @@ url: "https://pinedo.org"
 google_analytics: UA-119529330-1
 plugins:
   - jekyll-remote-theme
+gems:
+- jekyll-seo-tag
