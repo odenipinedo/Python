@@ -7,7 +7,6 @@ sitemap:
   lastmod: 2020-11-27
   exclude: 'no'
 ---
-
 ## <a href="https://www.datacamp.com/profile/odenipinedo" target="_blank" rel="noopener noreferrer">DataCamp</a>
 
 #### Machine Learning
